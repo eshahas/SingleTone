@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleTone", "SingleTone\SingleTone.csproj", "{2158F341-9487-4DC7-9CE4-7FCB09AF210D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleTone_Lazy", "SingleTone_Lazy\SingleTone_Lazy.csproj", "{0587DEDA-9244-420A-B9FB-D2A76001DC5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2158F341-9487-4DC7-9CE4-7FCB09AF210D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2158F341-9487-4DC7-9CE4-7FCB09AF210D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2158F341-9487-4DC7-9CE4-7FCB09AF210D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2158F341-9487-4DC7-9CE4-7FCB09AF210D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0587DEDA-9244-420A-B9FB-D2A76001DC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0587DEDA-9244-420A-B9FB-D2A76001DC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0587DEDA-9244-420A-B9FB-D2A76001DC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0587DEDA-9244-420A-B9FB-D2A76001DC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB3E5CB4-A53E-46D8-90B2-C6683BCA93D5}
+	EndGlobalSection
+EndGlobal
